@@ -1,0 +1,13 @@
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Service.Imp.deps.json
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Service.Imp.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.AssemblyInfoInputs.cache
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.AssemblyInfo.cs
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.csprojAssemblyReference.cache
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Service.Imp.pdb
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Data.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Service.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Data.pdb
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\bin\Debug\netcoreapp3.0\CRM.Service.pdb
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.csproj.CopyComplete
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service.Imp\obj\Debug\netcoreapp3.0\CRM.Service.Imp.pdb

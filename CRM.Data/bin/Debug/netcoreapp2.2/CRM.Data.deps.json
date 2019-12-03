@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CRM.Data/1.0.0": {
+        "dependencies": {
+          "CRM.Service": "1.0.0"
+        },
+        "runtime": {
+          "CRM.Data.dll": {}
+        }
+      },
+      "CRM.Service/1.0.0": {
+        "runtime": {
+          "CRM.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRM.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

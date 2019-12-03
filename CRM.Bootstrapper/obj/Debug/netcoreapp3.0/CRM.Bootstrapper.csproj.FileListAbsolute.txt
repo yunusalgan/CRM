@@ -1,0 +1,7 @@
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\bin\Debug\netcoreapp3.0\CRM.Bootstrapper.deps.json
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\bin\Debug\netcoreapp3.0\CRM.Bootstrapper.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\bin\Debug\netcoreapp3.0\CRM.Bootstrapper.pdb
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\obj\Debug\netcoreapp3.0\CRM.Bootstrapper.AssemblyInfoInputs.cache
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\obj\Debug\netcoreapp3.0\CRM.Bootstrapper.AssemblyInfo.cs
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\obj\Debug\netcoreapp3.0\CRM.Bootstrapper.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Bootstrapper\obj\Debug\netcoreapp3.0\CRM.Bootstrapper.pdb

@@ -1,0 +1,7 @@
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\obj\Debug\netcoreapp2.2\CRM.Service.AssemblyInfoInputs.cache
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\obj\Debug\netcoreapp2.2\CRM.Service.AssemblyInfo.cs
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\bin\Debug\netcoreapp2.2\CRM.Service.deps.json
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\bin\Debug\netcoreapp2.2\CRM.Service.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\bin\Debug\netcoreapp2.2\CRM.Service.pdb
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\obj\Debug\netcoreapp2.2\CRM.Service.dll
+C:\Users\yunus.algan\source\repos\CRM\CRM.Service\obj\Debug\netcoreapp2.2\CRM.Service.pdb

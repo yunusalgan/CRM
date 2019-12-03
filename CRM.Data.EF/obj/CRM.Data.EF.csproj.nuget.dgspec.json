@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
+        "projectName": "CRM.Data.EF",
+        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj"
+              },
+              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj"
+              },
+              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "projectName": "CRM.Data",
+        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
+        "projectName": "CRM.Service.Imp",
+        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
+        "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "projectName": "CRM.Service",
+        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
