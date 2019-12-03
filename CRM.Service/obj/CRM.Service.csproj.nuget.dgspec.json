@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {}
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj",
         "projectName": "CRM.Service",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",

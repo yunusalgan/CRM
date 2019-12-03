@@ -9,3 +9,14 @@ C:\Users\yunus.algan\source\repos\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.
 C:\Users\yunus.algan\source\repos\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.csproj.CopyComplete
 C:\Users\yunus.algan\source\repos\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.dll
 C:\Users\yunus.algan\source\repos\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.pdb
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\bin\Debug\netcoreapp2.2\CRM.Data.deps.json
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\bin\Debug\netcoreapp2.2\CRM.Data.dll
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\bin\Debug\netcoreapp2.2\CRM.Data.pdb
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\bin\Debug\netcoreapp2.2\CRM.Service.dll
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\bin\Debug\netcoreapp2.2\CRM.Service.pdb
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.csprojAssemblyReference.cache
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.AssemblyInfoInputs.cache
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.AssemblyInfo.cs
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.csproj.CopyComplete
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.dll
+C:\Users\yunus.algan\Desktop\New folder\CRM\CRM.Data\obj\Debug\netcoreapp2.2\CRM.Data.pdb

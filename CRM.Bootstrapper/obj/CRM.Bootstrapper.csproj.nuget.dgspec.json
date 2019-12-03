@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj": {}
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj",
         "projectName": "CRM.Bootstrapper",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Bootstrapper\\CRM.Bootstrapper.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Bootstrapper\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Bootstrapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",

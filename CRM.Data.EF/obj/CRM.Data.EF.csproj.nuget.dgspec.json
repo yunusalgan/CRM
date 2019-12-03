@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {}
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
         "projectName": "CRM.Data.EF",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data.EF\\CRM.Data.EF.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data.EF\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
-                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj"
+              "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj"
               },
-              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
-                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj"
+              "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj"
               },
-              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
-                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj"
+              "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj"
               }
             }
           }
@@ -50,15 +50,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.1, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
-              "version": "[3.0.1, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.1, )"
+              "version": "[2.2.6, )"
             },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj",
         "projectName": "CRM.Data",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
-                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj"
+              "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
         "projectName": "CRM.Service.Imp",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\CRM.Service.Imp.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service.Imp\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service.Imp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj": {
-                "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Data\\CRM.Data.csproj"
+              "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj": {
+                "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Data\\CRM.Data.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj": {
+    "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "projectUniqueName": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj",
         "projectName": "CRM.Service",
-        "projectPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\CRM.Service.csproj",
+        "projectPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\CRM.Service.csproj",
         "packagesPath": "C:\\Users\\yunus.algan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus.algan\\source\\repos\\CRM\\CRM.Service\\obj\\",
+        "outputPath": "C:\\Users\\yunus.algan\\Desktop\\New folder\\CRM\\CRM.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus.algan\\AppData\\Roaming\\NuGet\\NuGet.Config",
